@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Dharshini Rajagopal! 👋
 
-<!--
-**dharshini-2007/dharshini-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.E. AI & ML Student | Python & Problem Solving Learner | Committing Code to GitHub Daily 🚀
 
-Here are some ideas to get you started:
+### ⚡ Technical Core Focus
+* **Programming Languages:** Python Core Development & Logic Building
+* **Tools & Platforms:** GitHub Version Control & Code Repository Management
+* **Academic Horizons:** Exploring Machine Learning, Natural Language Processing (NLP), and Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 The Consistency Goal
+I maintain a disciplined daily coding routine, committing functional logic scripts and academic engineering prototypes to GitHub. My clear target is to compound my skill stack daily and translate core programming capabilities into scalable applications before graduation.
+
+---
+*Building foundations, optimized line-by-line.*
